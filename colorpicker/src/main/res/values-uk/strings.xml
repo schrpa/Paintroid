@@ -19,7 +19,7 @@
 -->
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="color_picker_title">Палітра</string>
-    <string name="color_picker_tab_icon">Знак вкладки палітри</string>
+    <string name="color_picker_tab_icon">Піктограма вкладки палітри</string>
     <string name="color_red">Червоний</string>
     <string name="color_green">Зелений</string>
     <string name="color_blue">Синій</string>
