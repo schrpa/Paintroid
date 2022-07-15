@@ -85,6 +85,8 @@
     <string name="no_longclick_on_hidden_layer">Możesz scalić lub zmienić kolejność tylko wtedy, gdy wszystkie warstwy są widoczne</string>
     <string name="no_tools_on_hidden_layer">Żadne narzędzia nie są dostępne w ukrytej warstwie</string>
     <string name="menu_load_image">Załaduj obraz</string>
+    <string name="menu_replace_image">Zastąp obraz</string>
+    <string name="menu_add_to_current_layer">Dodaj do bieżącej warstwy</string>
     <string name="menu_save_image">Zapisz obraz</string>
     <string name="menu_save_copy">Zapisz kopię</string>
     <string name="menu_hide_menu">Cały ekran</string>

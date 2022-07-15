@@ -85,6 +85,8 @@
     <string name="no_longclick_on_hidden_layer">Вы можете объединить или изменить порядок, только тогда, когда видны все слои</string>
     <string name="no_tools_on_hidden_layer">На скрытом слое инструменты недоступны</string>
     <string name="menu_load_image">Загрузить изображение</string>
+    <string name="menu_replace_image">Заменить изображение</string>
+    <string name="menu_add_to_current_layer">Добавить на текущий слой</string>
     <string name="menu_save_image">Сохранить изображение</string>
     <string name="menu_save_copy">Сохранить копию</string>
     <string name="menu_hide_menu">Полный экран</string>

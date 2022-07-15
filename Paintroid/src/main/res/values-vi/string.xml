@@ -85,6 +85,8 @@
     <string name="no_longclick_on_hidden_layer">Bạn chỉ có thể hợp nhất hoặc sắp xếp lại thứ tự nếu tất cả các lớp đều hiển thị</string>
     <string name="no_tools_on_hidden_layer">Không có công cụ nào trên lớp ẩn</string>
     <string name="menu_load_image">Tải hình ảnh</string>
+    <string name="menu_replace_image">Replace image</string>
+    <string name="menu_add_to_current_layer">Add to current layer</string>
     <string name="menu_save_image">Lưu ảnh</string>
     <string name="menu_save_copy">Lưu bản sao</string>
     <string name="menu_hide_menu">Toàn màn hình</string>

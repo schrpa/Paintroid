@@ -85,6 +85,8 @@
     <string name="no_longclick_on_hidden_layer">அனைத்து அடுக்குகளும் தெரிந்தால் மட்டுமே நீங்கள் ஒன்றிணைக்க அல்லது மறுவரிசைப்படுத்த முடியும்</string>
     <string name="no_tools_on_hidden_layer">மறைக்கப்பட்ட அடுக்கில் கருவிகள் இல்லை</string>
     <string name="menu_load_image">படங்களை ஏற்றவும்</string>
+    <string name="menu_replace_image">Replace image</string>
+    <string name="menu_add_to_current_layer">Add to current layer</string>
     <string name="menu_save_image">படத்தை சேமி</string>
     <string name="menu_save_copy">நகலைச் சேமிக்கவும்</string>
     <string name="menu_hide_menu">முழுத்திரை</string>

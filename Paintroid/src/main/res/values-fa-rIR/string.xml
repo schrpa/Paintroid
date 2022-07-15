@@ -85,6 +85,8 @@
     <string name="no_longclick_on_hidden_layer">شما فقط قادر به ادغام یا مرتب کردن مجدد اگر تمام لایه ها قابل مشاهده باشند</string>
     <string name="no_tools_on_hidden_layer">هیچ ابزار در لایه پنهان موجود نیست</string>
     <string name="menu_load_image">بارگذاری تصویر</string>
+    <string name="menu_replace_image">Replace image</string>
+    <string name="menu_add_to_current_layer">Add to current layer</string>
     <string name="menu_save_image">ذخیره تصویر</string>
     <string name="menu_save_copy">ذخیره رونوشت</string>
     <string name="menu_hide_menu">تمام صفحه</string>

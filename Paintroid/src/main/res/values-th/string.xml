@@ -85,6 +85,8 @@
     <string name="no_longclick_on_hidden_layer">คุณจะรวมหรือเรียงลำดับใหม่ได้ก็ต่อเมื่อมองเห็นเลเยอร์ทั้งหมดเท่านั้น</string>
     <string name="no_tools_on_hidden_layer">ไม่มีเครื่องมือในเลเยอร์ที่ซ่อนอยู่</string>
     <string name="menu_load_image">โหลด​รูป​ภาพ</string>
+    <string name="menu_replace_image">แทนที่ภาพ</string>
+    <string name="menu_add_to_current_layer">เพิ่มไปยังเลเยอร์ปัจจุบัน</string>
     <string name="menu_save_image">บันทึกรูปภาพ</string>
     <string name="menu_save_copy">บันทึกสำเนา</string>
     <string name="menu_hide_menu">เต็มจอ</string>

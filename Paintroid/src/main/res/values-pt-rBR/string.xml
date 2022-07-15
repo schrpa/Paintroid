@@ -85,6 +85,8 @@
     <string name="no_longclick_on_hidden_layer">Você só pode mesclar ou reordenar se todas as camadas estiverem visíveis</string>
     <string name="no_tools_on_hidden_layer">Nenhuma ferramenta está disponível na camada oculta</string>
     <string name="menu_load_image">Carregar imagem</string>
+    <string name="menu_replace_image">Substituir imagem</string>
+    <string name="menu_add_to_current_layer">Adicionar na camada atual</string>
     <string name="menu_save_image">Salvar imagem</string>
     <string name="menu_save_copy">Salvar cópia</string>
     <string name="menu_hide_menu">Tela cheia</string>

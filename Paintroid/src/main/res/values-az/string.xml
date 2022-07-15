@@ -85,6 +85,8 @@
     <string name="no_longclick_on_hidden_layer">Yalnız bütün qatlar görünürsə birləşdirilə və ye yenidən sıralana bilər</string>
     <string name="no_tools_on_hidden_layer">Gizli qatda heç bir alət mövcud deyil</string>
     <string name="menu_load_image">Təsvir yüklə</string>
+    <string name="menu_replace_image">Replace image</string>
+    <string name="menu_add_to_current_layer">Add to current layer</string>
     <string name="menu_save_image">Təsvir saxla</string>
     <string name="menu_save_copy">Kopyasını saxla</string>
     <string name="menu_hide_menu">Tam ekran</string>

@@ -22,7 +22,7 @@
     <string name="pocketpaint_app_name">Pocket Paint</string>
     <string name="button_brush">Pennello</string>
     <string name="button_cursor">Cursore</string>
-    <string name="button_set_center">Set Center</string>
+    <string name="button_set_center">Imposta il centro</string>
     <string name="button_pipette">Pipetta</string>
     <string name="button_undo">Annulla</string>
     <string name="button_redo">Ripeti</string>
@@ -38,7 +38,7 @@
     <string name="button_hand">Mano</string>
     <string name="button_watercolor">Acquarello</string>
     <string name="button_spray_can">Tanica spray</string>
-    <string name="button_smudge">Smudge</string>
+    <string name="button_smudge">Sfumatura</string>
     <string name="button_apply">Applica</string>
     <string name="button_checkmark">Segno di spunta</string>
     <string name="button_plus">Connetti Segmento</string>
@@ -76,7 +76,7 @@
     <string name="help_content_color_chooser">Seleziona o modifica un colore</string>
     <string name="help_content_hand">Sposta il dito per spostare il canvas.</string>
     <string name="help_content_spray_can">Sposta il dito nell\'immagine per creare un modello di spray.</string>
-    <string name="help_content_smudge">Move your finger on the image on different drawings to smudge them.</string>
+    <string name="help_content_smudge">Sposta il dito sui diversi disegni per sfumarli.</string>
     <string name="closing_catroid_security_question_title">Torna al progetto</string>
     <string name="closing_security_question_title">Esci</string>
     <string name="closing_security_question">Salvare le modifiche?</string>
@@ -85,6 +85,8 @@
     <string name="no_longclick_on_hidden_layer">Puoi unire o riordinare solo se tutti i livelli sono visibili</string>
     <string name="no_tools_on_hidden_layer">Non ci sono strumenti disponibili sul livello nascosto</string>
     <string name="menu_load_image">Carica immagine</string>
+    <string name="menu_replace_image">Sostituisci immagine</string>
+    <string name="menu_add_to_current_layer">Aggiungi al livello corrente</string>
     <string name="menu_save_image">Salva immagine</string>
     <string name="menu_save_copy">Salva copia</string>
     <string name="menu_hide_menu">Schermo intero</string>
@@ -125,8 +127,8 @@
     <string name="shape_tool_dialog_fill_title">Riempi</string>
     <string name="shape_tool_dialog_outline_title">Contorno</string>
     <string name="fill_tool_dialog_color_tolerance_title">Tolleranza colore</string>
-    <string name="smudge_tool_dialog_pressure_title">Pressure</string>
-    <string name="smudge_tool_dialog_drag_title">Drag</string>
+    <string name="smudge_tool_dialog_pressure_title">Pressione</string>
+    <string name="smudge_tool_dialog_drag_title">Trascina</string>
     <string name="transform_tool_rotate_left">ruota a sinistra</string>
     <string name="transform_tool_rotate_right">ruota a destra</string>
     <string name="transform_tool_flip_vertical">rifletti verticalmente</string>
@@ -136,7 +138,7 @@
     <string name="transform_width_text">Larghezza</string>
     <string name="transform_height_text">Altezza</string>
     <string name="transform_auto_crop_text">Auto</string>
-    <string name="transform_set_center_text">Set center</string>
+    <string name="transform_set_center_text">Imposta il centro</string>
     <string name="pixel">px</string>
     <string name="stamp_tool_copy_hint">Premi a lungo per copiare il contenuto</string>
     <string name="layers_title">Livelli</string>
@@ -161,7 +163,7 @@
     <string name="permission_info_external_storage_text">Questa app necessita delle autorizzazioni richieste per funzionare al meglio. Per poter salvare le immagini nella memoria locale, ha bisogno dei diritti di lettura e di scrittura.</string>
     <string name="permission_info_permanent_denial_text">Questa app necessita delle autorizzazioni richieste per funzionare al meglio. Per poter salvare le immagini nella memoria locale, ha bisogno dei diritti di lettura e di scrittura.
    Siccome hai negato il permesso senza possibilità di richiederlo nuovamente, vai sulle impostazioni del telefono per dare i permessi richiesti e usare le funzionalità associate.</string>
-    <string name="set_center_info_text">Tap the screen to define the new center position.</string>
+    <string name="set_center_info_text">Tocca lo schermo per definire il nuovo centro.</string>
     <string name="transform_info_text">Trascina i bordi nella nuova posizione, quindi tocca per ingrandire o ritagliare l\'area dell\'immagine.</string>
     <string name="cursor_draw_inactive">Pan per posizionare, quindi tocca per iniziare a dipingere.</string>
     <string name="cursor_draw_active">Pan per disegnare, quindi tocca di nuovo per interrompere.</string>
